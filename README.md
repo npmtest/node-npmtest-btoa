@@ -1,6 +1,6 @@
 # npmtest-btoa
 
-#### test coverage for  [btoa (v1.1.2)](https://github.com/coolaj86/node-browser-compat)  [![npm package](https://img.shields.io/npm/v/npmtest-btoa.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-btoa) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-btoa.svg)](https://travis-ci.org/npmtest/node-npmtest-btoa)
+#### basic test coverage for  [btoa (v1.1.2)](https://github.com/coolaj86/node-browser-compat)  [![npm package](https://img.shields.io/npm/v/npmtest-btoa.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-btoa) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-btoa.svg)](https://travis-ci.org/npmtest/node-npmtest-btoa)
 
 #### btoa for Node.JS (it's a one-liner)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-btoa/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-btoa/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-btoa/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-btoa/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-btoa/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-btoa/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-btoa/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-btoa/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-btoa/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-btoa/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-btoa/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-btoa/build/coverage.html/index.html)
 
